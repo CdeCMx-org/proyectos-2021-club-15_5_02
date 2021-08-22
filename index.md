@@ -8,7 +8,7 @@
 ## INTRODUCCIÓN 
 #### En los últimos años el calentamiento global y la contaminación ambiental han ido aumentando a un ritmo acelerado. En esta edición 2020 de Clubes de Ciencia México aprendimos mucho acerca de los Objetivos de Desarrollo Sostenible y como podemos cumplirlos a través de la ciencia. En particular, en nuestro club Harnessing the Power of Wind aprendimos que la energía eólica puede transformarse a energía eléctrica de una manera muy eficiente, a bajo costo y con un mínimo impacto ambiental, en contraste con la quema de combustibles fósiles que presentan una menor eficiencia energética y producen gases de efecto invernadero y mucha contaminación.
 #### Por lo que hemos realizado nuestro proyecto con base a este conocimiento, en esta página hablaremos sobre energías alternativas para reducir la contaminación lo máximo posible, enfocandonos principalmente en el aire como una fuente alternativa de energía (energía eólica), su impacto y su implementación en la actualidad en nuestro país, para empezar, hemos hecho un video sobre este extenso tema.
-### Es por ello que nos dimos a la tarea de investigar como México puede aprovechar este importante recurso y cuál sería la manera más óptima de implementar este tipo de tecnologías alternativas.
+#### Es por ello que nos dimos a la tarea de investigar como México puede aprovechar este importante recurso y cuál sería la manera más óptima de implementar este tipo de tecnologías alternativas, así como dar a conocer a todo el público en general de una manera mas sencilla y accesible este tema por medio de esta página.
 
 [**VIDEO DE NUESTRO PROYECTO**](https://www.youtube.com/watch?v=-RAH5rpp88c)
 
