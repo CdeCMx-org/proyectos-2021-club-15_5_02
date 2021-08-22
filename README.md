@@ -13,7 +13,15 @@
 ***
 
 ***
-                            
+ ## OBJETIVOS DE DESARROLLO SOSTENIBLE
+
+ Los Objetivos de Desarrollo Sostenible, también conocidos como Objetivos Mundiales, se adoptaron por todos los Estados Miembros en 2015 como un llamado universal para poner fin a la pobreza, proteger el planeta y garantizar que todas las personas gocen de paz y prosperidad para 2030.
+
+Los 17 ODS están integrados, ya que reconocen que las intervenciones en un área afectarán los resultados de otras y que el desarrollo debe equilibrar la sostenibilidad medio ambiental, económica y social.
+
+Siguiendo la promesa de no dejar a nadie atrás, los países se han comprometido a acelerar el progreso para aquellos más atrasados. Es por esto que los ODS han sido diseñados para traer al mundo varios “ceros” que cambien la vida, lo que incluye pobreza cero, hambre cero, SIDA cero y discriminación cero contra las mujeres y niñas.
+
+***
 
 ## ENERGÍAS ALTERNATIVAS
 
@@ -163,6 +171,7 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
  
 - Estrada Gasca, C. A. (2013). Transición energética, energías renovables y energía solar de potencia. Revista Mexicana de Física, 59(2),75-84. Disponible en:   https://www.redalyc.org/articulo.oa?id=57030971010
 - González, M. E., Beltrán, L. F., Troyo, E., y Ortega, A. (2006). WIND ENERGY POTENTIAL FOR ELECTRICITY GENERATION IN RURAL ZONES OF MEXICO. Interciencia, 31(4), 240-245., disponible en: http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0378-18442006000400002&lng=es&tlng=en.
+- https://www1.undp.org/content/undp/es/home/sustainable-development-goals.html
 
 
 ***
