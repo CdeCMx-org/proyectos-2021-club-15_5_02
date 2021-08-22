@@ -21,6 +21,7 @@ Los 17 ODS están integrados, ya que reconocen que las intervenciones en un áre
 
 Siguiendo la promesa de no dejar a nadie atrás, los países se han comprometido a acelerar el progreso para aquellos más atrasados. Es por esto que los ODS han sido diseñados para traer al mundo varios “ceros” que cambien la vida, lo que incluye pobreza cero, hambre cero, SIDA cero y discriminación cero contra las mujeres y niñas.
 
+![](https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=aSBP-hQC)
 ***
 
 ## ENERGÍAS ALTERNATIVAS
