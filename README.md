@@ -2,6 +2,7 @@
 ## INTRODUCCIÓN 
 #### En los últimos años el calentamiento global y la contaminación ambiental han ido aumentando a un ritmo acelerado. En esta edición 2020 de Clubes de Ciencia México aprendimos mucho acerca de los Objetivos de Desarrollo Sostenible y como podemos cumplirlos a través de la ciencia. En particular, en nuestro club Harnessing the Power of Wind aprendimos que la energía eólica puede transformarse a energía eléctrica de una manera muy eficiente, a bajo costo y con un mínimo impacto ambiental, en contraste con la quema de combustibles fósiles que presentan una menor eficiencia energética y producen gases de efecto invernadero y mucha contaminación.
 #### Por lo que hemos realizado nuestro proyecto con base a este conocimiento, en esta página hablaremos sobre energías alternativas para reducir la contaminación lo máximo posible, enfocandonos principalmente en el aire como una fuente alternativa de energía (energía eólica), su impacto y su implementación en la actualidad en nuestro país, para empezar, hemos hecho un video sobre este extenso tema.
+#### Es por ello que nos dimos a la tarea de investigar como México puede aprovechar este importante recurso y cuál sería la manera más óptima de implementar este tipo de tecnologías alternativas, así como dar a conocer este tema a todo el público en general de una manera mas sencilla y accesible por medio de esta página.
 
 [**VIDEO DE NUESTRO PROYECTO**](https://www.youtube.com/watch?v=-RAH5rpp88c)
 
@@ -13,8 +14,17 @@
 ***
 
 ***
-                            
+## OBJETIVOS DE DESARROLLO SOSTENIBLE
 
+ Los Objetivos de Desarrollo Sostenible, también conocidos como Objetivos Mundiales, se adoptaron por todos los Estados Miembros en 2015 como un llamado universal para poner fin a la pobreza, proteger el planeta y garantizar que todas las personas gocen de paz y prosperidad para 2030.
+
+Los 17 ODS están integrados, ya que reconocen que las intervenciones en un área afectarán los resultados de otras y que el desarrollo debe equilibrar la sostenibilidad medio ambiental, económica y social.
+
+Siguiendo la promesa de no dejar a nadie atrás, los países se han comprometido a acelerar el progreso para aquellos más atrasados. Es por esto que los ODS han sido diseñados para traer al mundo varios “ceros” que cambien la vida, lo que incluye pobreza cero, hambre cero, SIDA cero y discriminación cero contra las mujeres y niñas.
+
+![](https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=aSBP-hQC)
+
+***
 ## ENERGÍAS ALTERNATIVAS
 
 Las energías renovables son fuentes de energía limpias, inagotables y crecientemente competitivas. Se diferencian de los combustibles fósiles principalmente en su diversidad, abundancia y potencial de aprovechamiento en  cualquier parte del planeta, pero sobre todo en que no producen gases de efecto invernadero –causantes del cambio climático- ni emisiones contaminantes.
@@ -56,7 +66,7 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
 
     También llamada energía oceánica o marina, es aquella que se consigue con el movimiento de las mareas. La energía que genera la marea al subir y bajar se aprovecha con unas turbinas que al activarse mueven el conjunto mecánico del alternador, produciendo así energía eléctrica
 
-    ![](https://lh3.googleusercontent.com/proxy/H9LIJ5XjQ7kOIKYcXvISrNkyC6nYLnnZquCCutaQC1r_X2Hu2VUD88mJYvdqrKzScmK4Q_-NlFRC_t1CwhxXoNMRt9E6itOogsFu0SwXEUcVNPaq06ls3lf9c09fWP-iaEEExT7-QCBRQjrC68I)
+    ![](https://lh3.googleusercontent.com/proxy/fwwr1uBM2byPCSHPECLVgt4hXcgbAaMGyhvkbUgogrfc988eR-cAypoUGkIPgmxVOU3LiZ3ij1c_dKdSr1h1IZ9q973LmJhbLB8bPjL8NrVnbDnET6s0SOtgXeowzbGRzvcfYBYr-qSIcG7hR8U)
 
 - **ENERGÍA EÓLICA**  
 
@@ -163,7 +173,7 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
  
 - Estrada Gasca, C. A. (2013). Transición energética, energías renovables y energía solar de potencia. Revista Mexicana de Física, 59(2),75-84. Disponible en:   https://www.redalyc.org/articulo.oa?id=57030971010
 - González, M. E., Beltrán, L. F., Troyo, E., y Ortega, A. (2006). WIND ENERGY POTENTIAL FOR ELECTRICITY GENERATION IN RURAL ZONES OF MEXICO. Interciencia, 31(4), 240-245., disponible en: http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0378-18442006000400002&lng=es&tlng=en.
-
+- https://www1.undp.org/content/undp/es/home/sustainable-development-goals.html
 
 ***
 
@@ -186,6 +196,7 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
 
 
 ![](https://lh3.googleusercontent.com/st2Y-2teBAVv4blLupLY5f-MLio10-UD56jT0U0_xJbQVYsZcpTumwHJUWdTVGBclaR8stDwRVlWZFg=w1366-h625)
+
 
 
 
