@@ -67,7 +67,7 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
 
     También llamada energía oceánica o marina, es aquella que se consigue con el movimiento de las mareas. La energía que genera la marea al subir y bajar se aprovecha con unas turbinas que al activarse mueven el conjunto mecánico del alternador, produciendo así energía eléctrica
 
-    ![](https://lh3.googleusercontent.com/proxy/H9LIJ5XjQ7kOIKYcXvISrNkyC6nYLnnZquCCutaQC1r_X2Hu2VUD88mJYvdqrKzScmK4Q_-NlFRC_t1CwhxXoNMRt9E6itOogsFu0SwXEUcVNPaq06ls3lf9c09fWP-iaEEExT7-QCBRQjrC68I)
+![](https://lh3.googleusercontent.com/proxy/H9LIJ5XjQ7kOIKYcXvISrNkyC6nYLnnZquCCutaQC1r_X2Hu2VUD88mJYvdqrKzScmK4Q_-NlFRC_t1CwhxXoNMRt9E6itOogsFu0SwXEUcVNPaq06ls3lf9c09fWP-iaEEExT7-QCBRQjrC68I)
 
 - **ENERGÍA EÓLICA**  
 
@@ -178,7 +178,7 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
 
 ***
 
-### QUIPO 2 CLUB 15
+### EQUIPO 2 CLUB 15
 
 - **MARTÍNEZ JUÁREZ ALONDRA ARLEEN**
 
@@ -196,7 +196,7 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
 
 
 
-![](https://lh3.googleusercontent.com/st2Y-2teBAVv4blLupLY5f-MLio10-UD56jT0U0_xJbQVYsZcpTumwHJUWdTVGBclaR8stDwRVlWZFg=w1366-h625)
+![](https://lh3.googleusercontent.com/ls6IXOJxqlQf8dTEL2pWFlaJoifB9xNkvfg794hvAkjfDIN1JUP5G0O57ZPQ443yJsa119edaPjy8WM=w1366-h625)
 
 
 
