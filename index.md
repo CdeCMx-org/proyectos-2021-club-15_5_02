@@ -1,5 +1,10 @@
 
 ***
+# EL VIENTO COMO UNA FUENTE DE ENERGÍA
+
+### EQUIPO 2 CLUB HARNESSING THE POWER OF WIND
+***
+***
 ## INTRODUCCIÓN 
 #### En los últimos años el calentamiento global y la contaminación ambiental han ido aumentando a un ritmo acelerado. En esta edición 2020 de Clubes de Ciencia México aprendimos mucho acerca de los Objetivos de Desarrollo Sostenible y como podemos cumplirlos a través de la ciencia. En particular, en nuestro club Harnessing the Power of Wind aprendimos que la energía eólica puede transformarse a energía eléctrica de una manera muy eficiente, a bajo costo y con un mínimo impacto ambiental, en contraste con la quema de combustibles fósiles que presentan una menor eficiencia energética y producen gases de efecto invernadero y mucha contaminación.
 #### Por lo que hemos realizado nuestro proyecto con base a este conocimiento, en esta página hablaremos sobre energías alternativas para reducir la contaminación lo máximo posible, enfocandonos principalmente en el aire como una fuente alternativa de energía (energía eólica), su impacto y su implementación en la actualidad en nuestro país, para empezar, hemos hecho un video sobre este extenso tema.
@@ -67,7 +72,8 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
 
     También llamada energía oceánica o marina, es aquella que se consigue con el movimiento de las mareas. La energía que genera la marea al subir y bajar se aprovecha con unas turbinas que al activarse mueven el conjunto mecánico del alternador, produciendo así energía eléctrica
 
-![](https://lh3.googleusercontent.com/proxy/H9LIJ5XjQ7kOIKYcXvISrNkyC6nYLnnZquCCutaQC1r_X2Hu2VUD88mJYvdqrKzScmK4Q_-NlFRC_t1CwhxXoNMRt9E6itOogsFu0SwXEUcVNPaq06ls3lf9c09fWP-iaEEExT7-QCBRQjrC68I)
+ ![](https://lh3.googleusercontent.com/proxy/fwwr1uBM2byPCSHPECLVgt4hXcgbAaMGyhvkbUgogrfc988eR-cAypoUGkIPgmxVOU3LiZ3ij1c_dKdSr1h1IZ9q973LmJhbLB8bPjL8NrVnbDnET6s0SOtgXeowzbGRzvcfYBYr-qSIcG7hR8U)
+
 
 - **ENERGÍA EÓLICA**  
 
